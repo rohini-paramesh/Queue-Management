@@ -82,7 +82,7 @@ class QueueSimulation:
                     print("Exiting the simulation. Goodbye!")
                     break
                 else:
-                    print("Invalid choice! Please choose a vcalid option.")
+                    print("Invalid choice! Please choose a vcalid Option")
             except ValueError:
                 print("Please enter a valid number.")
 
